@@ -5,7 +5,7 @@
 
 ```shell
 jay@mac:/tmp > show-date-time --help
-show-date-time/1.1.0
+show-date-time/1.2.0
 
 Usage:
   $ show-date-time
