@@ -1,6 +1,6 @@
 {
   "name": "show-date-time",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "a command line tool to shows date and time",
   "main": "index.js",
   "bin": {
